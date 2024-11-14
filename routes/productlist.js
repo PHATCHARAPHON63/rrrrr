@@ -6,7 +6,7 @@ const {
   updateProduct,
   addProduct,
   deleteProduct,
-} = require("../controllers/productList");
+} = require("../controllers/productlist");
 
 /**
  * @swagger
